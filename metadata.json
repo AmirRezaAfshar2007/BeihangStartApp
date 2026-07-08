@@ -1,0 +1,8 @@
+{
+  "name": "Beihang Mandarin Flow",
+  "description": "Official Mandarin learning platform for Beihang University, utilizing spaced repetition and learning science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
