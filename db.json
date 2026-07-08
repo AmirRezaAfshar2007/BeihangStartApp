@@ -1,0 +1,153 @@
+{
+  "students": [
+    {
+      "id": "admin-id",
+      "studentId": "401120000",
+      "fullName": "Professor Zhang (Admin)",
+      "passwordHash": "$2b$10$mTqVVGQuM6cIh5chMH7d/OzGf93/LOmGcojbHr/DgjNSmOU3K771W",
+      "role": "admin",
+      "disabled": false,
+      "createdAt": "2026-07-08T15:46:49.145Z"
+    },
+    {
+      "id": "student-id-1",
+      "studentId": "401120145",
+      "fullName": "Alex River",
+      "passwordHash": "$2b$10$mTqVVGQuM6cIh5chMH7d/ONXhsIiNEgKcYLNPQlNN1DzDq3OSfBIm",
+      "role": "student",
+      "disabled": false,
+      "createdAt": "2026-07-08T15:46:49.247Z"
+    }
+  ],
+  "characters": [
+    {
+      "id": "char-1",
+      "studentId": "401120145",
+      "character": "你",
+      "simplified": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "englishMeaning": "you (singular, polite)",
+      "persianMeaning": "",
+      "radicals": [
+        "人",
+        "尔"
+      ],
+      "strokeCount": 7,
+      "hskLevel": 1,
+      "frequencyRank": 9,
+      "exampleWords": [
+        {
+          "word": "你好",
+          "pinyin": "nǐ hǎo",
+          "meaning": "hello"
+        },
+        {
+          "word": "你们",
+          "pinyin": "nǐ men",
+          "meaning": "you (plural)"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "你好吗？",
+          "pinyin": "Nǐ hǎo ma?",
+          "meaning": "How are you?"
+        },
+        {
+          "sentence": "我很想念你。",
+          "pinyin": "Wǒ hěn xiǎngniàn nǐ.",
+          "meaning": "I miss you very much."
+        }
+      ],
+      "audioPronunciation": "",
+      "dateAdded": "2026-07-08T15:46:49.247Z",
+      "lastReviewed": null,
+      "reviewCount": 0,
+      "learningLevel": 1,
+      "memoryStability": 50,
+      "interval": 1,
+      "nextReviewDate": "2026-07-08"
+    },
+    {
+      "id": "char-2",
+      "studentId": "401120145",
+      "character": "好",
+      "simplified": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "englishMeaning": "good, well, fine",
+      "persianMeaning": "",
+      "radicals": [
+        "女",
+        "子"
+      ],
+      "strokeCount": 6,
+      "hskLevel": 1,
+      "frequencyRank": 14,
+      "exampleWords": [
+        {
+          "word": "好看",
+          "pinyin": "hǎo kàn",
+          "meaning": "good-looking"
+        },
+        {
+          "word": "好吃",
+          "pinyin": "hǎo chī",
+          "meaning": "delicious"
+        }
+      ],
+      "exampleSentences": [
+        {
+          "sentence": "今天天气很好。",
+          "pinyin": "Jīntiān tiānqì hěn hǎo.",
+          "meaning": "Today's weather is very good."
+        }
+      ],
+      "audioPronunciation": "",
+      "dateAdded": "2026-07-08T15:46:49.247Z",
+      "lastReviewed": null,
+      "reviewCount": 0,
+      "learningLevel": 0,
+      "memoryStability": 30,
+      "interval": 1,
+      "nextReviewDate": "2026-07-08"
+    }
+  ],
+  "practiceLogs": [],
+  "stats": [
+    {
+      "studentId": "401120145",
+      "currentStreak": 5,
+      "totalXp": 450,
+      "studyTimeSeconds": 1200,
+      "lastActiveDate": "2026-07-08"
+    },
+    {
+      "studentId": "401120000",
+      "currentStreak": 0,
+      "totalXp": 0,
+      "studyTimeSeconds": 0,
+      "lastActiveDate": null
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-1",
+      "studentId": "401120145",
+      "title": "First Step",
+      "description": "Logged in to Sino3D Chinese Calligraphy platform.",
+      "unlockedAt": "2026-07-08T15:46:49.247Z",
+      "icon": "🚀"
+    },
+    {
+      "id": "ach-2",
+      "studentId": "401120145",
+      "title": "Day Starter",
+      "description": "Accumulate a 5-day continuous learning streak.",
+      "unlockedAt": "2026-07-08T15:46:49.247Z",
+      "icon": "🔥"
+    }
+  ],
+  "sessions": []
+}
